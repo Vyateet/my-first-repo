@@ -1,2 +1,3 @@
 # my-first-repo
-this is my first repository
+This is my first repository.
+Author - Aditya singh
